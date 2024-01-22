@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = 'My New Hugo Site'
+title = 'My New Hugo Site built from repo cloudy in github'
 theme = "terminal"
 paginate = 5
 
